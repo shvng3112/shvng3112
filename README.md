@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Shivang Vyas
-- I'm a MERN stack developer.
+- 👋 Hi, I’m Shivang Vyas (Shvng)
+- Currently working as a fullstack developer.
 
 <!---
 shvng3112/shvng3112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
