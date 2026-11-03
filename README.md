@@ -3,7 +3,7 @@
 
 ---
 
-I build things that don't fall over. Spent 5 years shipping MEAN/MERN in production — microservices, WebSockets, the works. Lately obsessed with LLMs: running local models via Ollama, integrating Gemini API, and doing actual data science with Pandas & NumPy. Not portfolio projects — real pipelines.
+I build things that don't fall over. Spent 5 years shipping MEAN/MERN in production, microservices, WebSockets, the works. Lately obsessed with LLMs; running local models via Ollama, integrating Gemini API, and doing actual data science with Pandas & NumPy. Not portfolio projects but real pipelines.
 
 | 4,000+ concurrent users | 30,000+ students taught | 4.7★ Udemy rating |
 |---|---|---|
